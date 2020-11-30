@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+    
+
+}
+
+h1{
+    text-shadow: 15px;
+    font-size:55px;
+
+}
+
+ol{
+    font-style: italic;
+}
+
+a{
+    color: black;
+}
+
+.bla1{
+    font-weight: bold;
+}
+
+h2{
+    font-style: italic;
+    font-weight: bold;
+}
