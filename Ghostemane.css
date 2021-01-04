@@ -29,6 +29,7 @@ ol{
 h2{
     font-style: italic;
     font-weight: bold;
+    
 }
 
 .képi{
@@ -37,6 +38,7 @@ h2{
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
+
 }
 
 .hilihali{
@@ -70,4 +72,14 @@ table, table tr, table th {
 
 .ulala{
     font-size: 20px;
+}
+
+.pötyik{
+    list-style-image: url("trash-logo2.png");
+    
+
+}
+
+.képi:hover {
+    background-color: black;
 }
